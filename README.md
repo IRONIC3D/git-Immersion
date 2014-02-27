@@ -4,7 +4,7 @@ git-Immersion
 Git Immersion training files
 
 ## A set of aliases being used
-<code>
+```
 .gitignore
 --------------
 [alias]
@@ -29,4 +29,4 @@ alias gk='gitk --all&'
 
 alias got='git '
 alias get='git '
-</code>
+```
